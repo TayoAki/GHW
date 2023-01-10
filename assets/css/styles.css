@@ -39,7 +39,7 @@ body {
   border-radius: 20px;
   padding-left: 16px;
   margin-left: -16px;
-  background: rgba(232,225,237,0.5);
+  background: transparent;
   border-style: none;
 }
 
